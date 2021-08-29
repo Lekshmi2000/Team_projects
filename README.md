@@ -9,7 +9,9 @@ https://github.com/Hareeshmaharee/AttendanceChecker-TinkerBell/blob/master/Atten
   
 ## Team Members
 1.Hareeshma K M [https://github.com/Hareeshmaharee]
+
 2.Lekshmi A M [https://github.com/Lekshmi2000]
+
 3.Neevea Manoj[https://github.com/Neevea8880]
 
   
@@ -21,9 +23,13 @@ Python
 ## Working of the project
 
 1.Retrieving data from Sqlite database
+
 2.Getting input values
+
 3.Preparing and writing list of absentees to separate text files
+
 4.Printing and writing list of unknown participats to text file
+
 5.Displaying total number of absentees
 
   
