@@ -1,6 +1,6 @@
 <img src="banner/banner.gif" width="100%" height="">
 
-ATTENDANCE CHECKER
+## ATTENDANCE CHECKER
 
 Reading the participants list Printing the absentees list of A batch, B batch Printing the list of unknown participants.
 ## Demo + Video
